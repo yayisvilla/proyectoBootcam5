@@ -1,0 +1,52 @@
+
+*{text-align: center;
+    margin: 950;
+    padding: 950;
+    box-sizing: center-box;}
+    
+    body {background-image: url('imagenes/fondoconlogo.png');background-size: 10%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:below;
+    }
+    
+    body {
+        margin: 10;
+        padding: 1px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        
+       
+    }
+    p {
+        text-align:center;font-size: 150px; margin: 250;
+        padding: 250px; color:#0a0d45 ; 
+        }
+        
+        
+       
+    
+    button{text-align: center; 
+        color: blue;
+         font-size: 50px;
+         border-radius: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      
+    }
+        
+    #continuar{
+        font-size: 65px;
+        margin: 200px;
+        padding:200px;
+        color: #0a0d45;
+        text-shadow: 
+                2px 2px 0px white,
+                -2px -2px 0px black,
+                2px -2px 0px white,
+                -2px -2px 0px black,
+                2px 0px 0px white,
+                -2px -2px 0px black,
+                0px 2px 0px white,
+                0px -2px 0px black;
+
+    }
